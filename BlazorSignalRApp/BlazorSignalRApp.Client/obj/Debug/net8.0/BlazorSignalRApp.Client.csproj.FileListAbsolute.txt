@@ -1081,3 +1081,4 @@ C:\Users\cic44\source\repos\BlazorSignalRApp\BlazorSignalRApp\BlazorSignalRApp.C
 C:\Users\cic44\source\repos\BlazorSignalRApp\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\refint\BlazorSignalRApp.Client.dll
 C:\Users\cic44\source\repos\BlazorSignalRApp\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\BlazorSignalRApp.Client.pdb
 C:\Users\cic44\source\repos\BlazorSignalRApp\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\ref\BlazorSignalRApp.Client.dll
+C:\Users\cic44\source\repos\BlazorSignalRApp\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\BlazorSignalRApp.Client.sourcelink.json

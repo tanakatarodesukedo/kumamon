@@ -71,3 +71,4 @@ C:\Users\cic44\source\repos\BlazorSignalRApp\BlazorSignalRApp\BlazorSignalRApp\o
 C:\Users\cic44\source\repos\BlazorSignalRApp\BlazorSignalRApp\BlazorSignalRApp\obj\Debug\net8.0\ref\BlazorSignalRApp.dll
 C:\Users\cic44\source\repos\BlazorSignalRApp\BlazorSignalRApp\BlazorSignalRApp\bin\Debug\net8.0\Dapper.dll
 C:\Users\cic44\source\repos\BlazorSignalRApp\BlazorSignalRApp\BlazorSignalRApp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\cic44\source\repos\BlazorSignalRApp\BlazorSignalRApp\BlazorSignalRApp\obj\Debug\net8.0\BlazorSignalRApp.sourcelink.json
